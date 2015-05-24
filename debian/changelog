@@ -2,7 +2,7 @@ ca-certificates-fsinf (2:2015.05.24.1) unstable; urgency=low
 
   * Also ship old certificate.
 
- -- Mathias Ertl <mati@fsinf.at>  Sun, 24 May 2015 16:30:52 +0200
+ -- Mathias Ertl <mati@fsinf.at>  Sun, 24 May 2015 22:16:11 +0200
 
 ca-certificates-fsinf (2:0.1) unstable; urgency=low
 
