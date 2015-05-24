@@ -1,0 +1,5 @@
+ca-certificates-fsinf (2:0.1) unstable; urgency=low
+
+  * Initial version outside of the certificate-authority package.
+
+ -- Mathias Ertl <mati@fsinf.at>  Sun, 24 May 2015 16:30:52 +0200

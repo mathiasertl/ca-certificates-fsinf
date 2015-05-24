@@ -1,0 +1,16 @@
+Source: ca-certificates-fsinf
+Section: misc
+Priority: standard
+Maintainer: Mathias Ertl <mati@fsinf.at>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/mathiasertl/ca-certificates-fsinf
+Vcs-Browser: https://github.com/mathiasertl/ca-certificates-fsinf
+Vcs-Git: https://github.com/mathiasertl/ca-certificates-fsinf.git
+
+Package: ca-certificates-fsinf
+Architecture: all
+Depends: ${misc:Depends}
+Description: fsinf.at certificate bundle
+ Certificate for the fsinf.at certificate authority, used only for internal
+ machines.
