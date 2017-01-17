@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/mathiasertl/ca-certificates-fsinf.git
 
 Package: ca-certificates-fsinf
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ca-certificates, ${misc:Depends}
 Description: fsinf.at certificate bundle
  Certificate for the fsinf.at certificate authority, used only for internal
  machines.
