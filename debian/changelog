@@ -1,5 +1,11 @@
 ca-certificates-fsinf (2:2017.01.18.1) unstable; urgency=low
 
+  * Add fsinf_at_2017.crt.
+
+ -- Mathias Ertl <mati@fsinf.at>  Wed, 18 Jan 2017 09:23:12 +0100
+
+ca-certificates-fsinf (2:2017.01.18.1) unstable; urgency=low
+
   * Remove symlink to fsinf_at_old.pem manually before running
     update-ca-certificates.
   * Update lintian overrides about unusal file locations.

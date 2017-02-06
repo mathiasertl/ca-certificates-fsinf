@@ -4,3 +4,5 @@ ca-certificates-fsinf: file-in-usr-local usr/local/share/ca-certificates/fsinf_a
 ca-certificates-fsinf: file-in-unusual-dir usr/local/share/ca-certificates/fsinf_at.crt
 ca-certificates-fsinf: file-in-usr-local usr/local/share/ca-certificates/fsinf_at_2017.crt
 ca-certificates-fsinf: file-in-unusual-dir usr/local/share/ca-certificates/fsinf_at_2017.crt
+ca-certificates-fsinf: file-in-usr-local usr/local/share/ca-certificates/fsinf_at_2017_server.crt
+ca-certificates-fsinf: file-in-unusual-dir usr/local/share/ca-certificates/fsinf_at_2017_server.crt
