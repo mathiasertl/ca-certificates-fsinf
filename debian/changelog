@@ -1,8 +1,8 @@
-ca-certificates-fsinf (2:2017.02.06.1) unstable; urgency=low
+ca-certificates-fsinf (2:2017.02.24.1) unstable; urgency=low
 
   * Add fsinf_at_2017.crt.
 
- -- Mathias Ertl <mati@fsinf.at>  Mon, 06 Feb 2017 21:18:49 +0100
+ -- Mathias Ertl <mati@fsinf.at>  Fri, 24 Feb 2017 09:30:28 +0100
 
 ca-certificates-fsinf (2:2017.01.18.1) unstable; urgency=low
 
