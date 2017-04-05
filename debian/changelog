@@ -2,6 +2,7 @@ ca-certificates-fsinf (2:2017.04.05.1) unstable; urgency=low
 
   * Refresh fsinf_at_2017_server.crt with new CA (again).
   * Install CA from February as _tmp for now.
+  * Pass --fresh to update-ca-certificates for now.
 
  -- Mathias Ertl <mati@fsinf.at>  Wed, 05 Apr 2017 15:53:31 +0200
 

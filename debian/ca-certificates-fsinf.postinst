@@ -7,7 +7,7 @@ set -e
 case "$1" in
     configure|reconfigure)
         rm -f /etc/ssl/certs/fsinf_at_old.pem
-        update-ca-certificates
+        update-ca-certificates --fresh
         ;;
     *)
         ;;
