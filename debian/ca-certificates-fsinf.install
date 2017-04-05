@@ -1,3 +1,5 @@
 fsinf_at_2017.crt usr/local/share/ca-certificates/
 fsinf_at_2017_server.crt usr/local/share/ca-certificates/
+fsinf_at_2017_tmp.crt usr/local/share/ca-certificates/
+fsinf_at_2017_server_tmp.crt usr/local/share/ca-certificates/
 debian/lintian-override/ca-certificates-fsinf usr/share/lintian/overrides
